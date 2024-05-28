@@ -1,4 +1,4 @@
-package ex04.teacher;
+package ex05.teacher;
 
 public class PythonTeacher extends Teacher {
 

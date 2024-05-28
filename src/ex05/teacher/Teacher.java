@@ -1,4 +1,4 @@
-package ex04.teacher;
+package ex05.teacher;
 
 public abstract class Teacher {
     public void 수업하기() {
